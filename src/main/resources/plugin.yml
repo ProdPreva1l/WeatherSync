@@ -1,0 +1,7 @@
+name: WeatherSync
+version: '1.0-SNAPSHOT'
+main: info.preva1l.weathersync.WeatherSync
+api-version: '1.21'
+
+depend:
+  - AdvancedServerZones
